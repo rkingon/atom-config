@@ -1,0 +1,47 @@
+{
+  "_from": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+  "_id": "block-select@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-aa1y8ekEkoTJr0YYShb3JAFAfuAODQ+HPYjcy4HPWuUYxWlH1zu4wlh2nBWuuj5bmcyUXgeIEqSt7UCy6TME4Q==",
+  "_location": "/block-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+  "_shasum": "aca7fbc1cc11ace99c9dc89904aeb38471c32f18",
+  "_spec": "https://www.atom.io/api/packages/block-select/versions/1.0.0/tarball",
+  "_where": "/private/var/folders/fj/901131751h749pxrcm2vcjm00000gp/T/apm-install-dir-118911-27730-zbmumd.6o1ha",
+  "bugs": {
+    "url": "https://github.com/radonlab/atom-block-select/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Sublime style block selection for Atom",
+  "engines": {
+    "atom": ">0.165.0"
+  },
+  "homepage": "https://github.com/radonlab/atom-block-select#readme",
+  "keywords": [
+    "block",
+    "multiple",
+    "selection",
+    "cursor"
+  ],
+  "license": "MIT",
+  "main": "./lib/sublime-select",
+  "name": "block-select",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radonlab/atom-block-select.git"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,33 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    projectHome: "/Users/roi-otb/Sites"
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    titleBar: "custom"
+  editor:
+    autoIndentOnPaste: false
+    fontSize: 12
+    invisibles:
+      tab: false
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "b0f0c509-b30f-483f-b6d1-4df4cb214a4d"
+  "no-title-bar":
+    automaticTrafficLightsPadding: true
+  "one-dark-ui":
+    fontSize: 13
+  "status-bar": {}
+  welcome:
+    showOnStartup: false
+".css.scss.source":
+  editor:
+    nonWordCharacters: "/\\()\"':,.;<>~!#%^&*|+=[]{}`?-…"
+".sass.source":
+  editor:
+    nonWordCharacters: "/\\()\"':,.;<>~!#%^&*|+=[]{}`?-…"

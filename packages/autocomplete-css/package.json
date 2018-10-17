@@ -1,0 +1,52 @@
+{
+  "_from": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+  "_id": "autocomplete-css@0.17.5",
+  "_inBundle": false,
+  "_integrity": "sha512-iFsTHwAzESHV3p9HD23WnlZA69G8f5x3rvY6BmorrOMqPodx/6xBK1cq81SDGtlHgJ9hmwpc1DAtinpFy3qEOQ==",
+  "_location": "/autocomplete-css",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+  "_shasum": "a6b38bca90bdba18a2f40c366266cda93bf582c3",
+  "_spec": "https://www.atom.io/api/packages/autocomplete-css/versions/0.17.5/tarball",
+  "_where": "/private/var/folders/fj/901131751h749pxrcm2vcjm00000gp/T/apm-install-dir-118911-27052-10yvgjy.0qjm",
+  "bugs": {
+    "url": "https://github.com/atom/autocomplete-css/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "CSS property name and value autocompletions",
+  "devDependencies": {
+    "coffeelint": "^1.9.7",
+    "request": "^2.53.0"
+  },
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/atom/autocomplete-css#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "autocomplete-css",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/autocomplete-css.git"
+  },
+  "version": "0.17.5"
+}

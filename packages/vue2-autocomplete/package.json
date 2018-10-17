@@ -1,0 +1,59 @@
+{
+  "_from": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+  "_id": "vue2-autocomplete@0.1.0-alpha.4",
+  "_inBundle": false,
+  "_integrity": "sha512-Yt4/YvG1GfzpGoDPqJsANWMf9W0zDNiu8ap1JF4O1XemvCQWgGNpFbGIZpeuFQ591WDJbTZ2V6JRsTaptkKQ4w==",
+  "_location": "/vue2-autocomplete",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+  "_shasum": "2545ca687aec6fc94c1acae23d6fb79c42408c38",
+  "_spec": "https://www.atom.io/api/packages/vue2-autocomplete/versions/0.1.0-alpha.4/tarball",
+  "_where": "/private/var/folders/fj/901131751h749pxrcm2vcjm00000gp/T/apm-install-dir-118911-26132-eo8dma.55r0b",
+  "author": {
+    "name": "Eduardo Alves"
+  },
+  "bugs": {
+    "url": "https://github.com/ealves-pt/atom-vue2-autocomplete/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "Vue.js 2.0+ autocomplete for Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ealves-pt/atom-vue2-autocomplete#readme",
+  "keywords": [
+    "vue",
+    "autocomplete",
+    "provider"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "vue2-autocomplete",
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ealves-pt/atom-vue2-autocomplete.git"
+  },
+  "version": "0.1.0-alpha.4"
+}
