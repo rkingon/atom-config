@@ -37,7 +37,7 @@
     }
   },
   "dependencies": {
-    "atom-package-deps": "^4.6.2",
+    "atom-package-deps": "^8.0.0",
     "grim": "^2.0.1"
   },
   "deprecated": false,
